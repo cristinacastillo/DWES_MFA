@@ -1,0 +1,27 @@
+.logo { margin-top: 50px; width: 25rem; }
+
+.content 	{ padding: 40px; }
+.pagination { margin-top: 40px !important; }
+
+.card, 
+.card-footer { border: none !important ; }
+.card-footer { background: none !important; }
+
+.rating { float:  left; }
+
+/**/
+.rating > input { display: none;  }
+.rating > label { float: right; font-size:18pt; line-height: 1.1; color: #ccc; }
+.rating > label:before { content: '\2605 ' ; }
+
+.rating > label:hover,
+.rating > label:hover ~ label { color: #fac53e; }
+
+.rating > input:checked + label,
+.rating > input:checked ~ label { color:  #fac53e; }
+
+.rating > input:checked + label:hover, 
+.rating > input:checked + label:hover ~ label,
+.rating > input:checked ~ label:hover,
+.rating > input:checked ~ label:hover ~ label
+{ color: #bd9a40 ; }
