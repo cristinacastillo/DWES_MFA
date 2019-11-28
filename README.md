@@ -23,4 +23,4 @@ La aplicación de Mi Fiel Amigo es un refugio, en el que puedes ver todos los pe
 ![Tabla](/assets/tabla.png "Tabla adopciones")
 
 - La aplicación dispone de un perfil de usuario en el que se podrá ver tu nombre, email y api_key:
-![Tabla](/assets/perfil.png "Perfil de usuario")
+![Tabla](/assets/perfilusu.png "Perfil de usuario")
