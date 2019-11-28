@@ -5,3 +5,6 @@ La aplicación de Mi Fiel Amigo es un refugio, en el que puedes ver todos los pe
 - Para añadir habrá que pulsar el botón añadir perro y rellenar el forulario:
 ![Pulsar botón](/assets/aniadir1.png "Añadir Perro")
 ![Modal](/assets/aniadir2.png "Añadir Perro")
+
+- Desde la página de información de cada perro podremos acceder al anterior y al siguiente
+![Botones](/assets/antsig.png "Anterior y siguiente")
