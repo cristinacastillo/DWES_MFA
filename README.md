@@ -24,3 +24,6 @@ La aplicación de Mi Fiel Amigo es un refugio, en el que puedes ver todos los pe
 
 - La aplicación dispone de un perfil de usuario en el que se podrá ver tu nombre, email y api_key:
 ![Tabla](/assets/perfilusu.png "Perfil de usuario")
+
+
+<h3>Cristina Castillo Obregón 2º DAW<h3>
