@@ -26,4 +26,4 @@ La aplicación de Mi Fiel Amigo es un refugio, en el que puedes ver todos los pe
 ![Tabla](/assets/perfilusu.png "Perfil de usuario")
 
 
-                                      <h3>Cristina Castillo Obregón 2º DAW - IES Campanillas<h3>
+                                    <h3>Cristina Castillo Obregón 2º DAW - IES Campanillas<h3>
