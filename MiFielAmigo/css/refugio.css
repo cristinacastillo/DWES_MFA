@@ -1,0 +1,50 @@
+
+#logo  {
+    width: 7rem !important; 
+    margin-right: 5rem !important;
+    margin-left: 5rem !important;
+}
+
+li {
+    margin-left: 8rem !important;
+    font-size: 1.5rem !important;
+}
+
+span {
+    margin-left: 3rem;
+    font-size: 1.02rem;
+}
+
+#logout {
+    width: 1rem !important;
+    margin: 0.5rem !important;
+}
+
+nav{
+    margin-bottom: 3rem;
+    background-color: #e6f7ff;
+    
+}
+label{
+    font-style: bold;
+}
+
+h1{
+    margin: 8px
+}
+
+
+
+#editar{
+    margin-left: 2em;
+}
+
+.alert{
+    text-align: center;
+}
+
+
+
+
+
+
